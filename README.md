@@ -8,7 +8,7 @@ Here are listed my general thoughts on work I have done in my life. There is als
 [Paper](./bracco2016.pdf) on submesoscale phenomena observed in the same ocean models at higher resolution
 
 ## Lecturing @ University of Guyana
-[Talk](./Joshi_TechEdTalk_UG.ppt) on ML/AI and its many uses in the modern world, basic introduction, and how AI is not an existential threat
+[Talk](./Joshi_TechEdTalk_UG.pptx) on ML/AI and its many uses in the modern world, basic introduction, and how AI is not an existential threat
 
 ## OMSCS @ Georgia Tech
 
