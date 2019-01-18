@@ -1,6 +1,14 @@
 Here are listed my general thoughts on work I have done in my life. There is also some useful stuff here I promise!
 
-<!-- ## Ocean Modelling Research @ Georgia Tech | LANL -->
+## Ocean Modelling Research @ Georgia Tech | LANL
+[Presentation](./Lagrangian_presentation.ppt) and [Report](./lagrangian_report.pdf) on the effect of model resolution, seasonality on lagrangian trajectories launched in a South Atlantic ocean model.
+
+[Presentation](./GOM15_Keshav.ppt) at Gulf of Mexico Oil Spill & Ecosystem Science Conference on the effects of spatial resolution of the ocean model on tracer evolution and dynamics
+
+[Paper](./bracco2016.pdf) on submesoscale phenomena observed in the same ocean models at higher resolution
+
+## Lecturing @ University of Guyana
+[Talk](./Joshi_TechEdTalk_UG.ppt) on ML/AI and its many uses in the modern world, basic introduction, and how AI is not an existential threat
 
 ## OMSCS @ Georgia Tech
 
