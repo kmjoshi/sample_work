@@ -5,7 +5,7 @@ The bulk of the following research was motivated by probing to what extent highe
 
 [Presentation](./ocean_modeling/Lagrangian_presentation.pdf)(for videos/gifs go [here](./ocean_modeling/README.md)) and [Report](./ocean_modeling/lagrangian_report.pdf) on the effect of model resolution, seasonality on lagrangian trajectories launched in the South Atlantic
 
-[Presentation](./ocean_modeling/GOM15_Keshav.pdf) at Gulf of Mexico Oil Spill & Ecosystem Science Conference on the effects of spatial resolution on tracer evolution and dynamics
+[Presentation](./ocean_modeling/GOM15_keshav.pdf) at Gulf of Mexico Oil Spill & Ecosystem Science Conference on the effects of spatial resolution on tracer evolution and dynamics
 
 [Paper](./ocean_modeling/bracco2016.pdf) published in Ocean Modeling on submesoscale phenomena
 
