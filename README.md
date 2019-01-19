@@ -3,7 +3,7 @@ Here are listed my general thoughts on work I have done in my life. There is als
 ## Ocean Modelling Research @ Georgia Tech | LANL
 The bulk of the following research was motivated by probing to what extent higher resolution models of the ocean capture dynamics missed by lower resolution models (resolution here refers to spatial resolution of models, size of an individual grid-cell. Global climate models use ~50km, regional models like [ECMWF](https://www.ecmwf.int/) use ~10km). We probed the submesoscale ~1km-5km in regional ocean simulations using [ROMS-AGRIF](http://www.croco-ocean.org/documentation/ROMS_AGRIF-User-Guide/).
 
-[Presentation](./ocean_modeling/Lagrangian_presentation.pdf) and [Report](./ocean_modeling/lagrangian_report.pdf) on the effect of model resolution, seasonality on lagrangian trajectories launched in the South Atlantic
+[Presentation](./ocean_modeling/Lagrangian_presentation.pdf)(for videos/gifs go [here](./ocean_modeling/README.md)) and [Report](./ocean_modeling/lagrangian_report.pdf) on the effect of model resolution, seasonality on lagrangian trajectories launched in the South Atlantic
 
 [Presentation](./ocean_modeling/GOM15_Keshav.pdf) at Gulf of Mexico Oil Spill & Ecosystem Science Conference on the effects of spatial resolution on tracer evolution and dynamics
 
@@ -16,9 +16,9 @@ The bulk of the following research was motivated by probing to what extent highe
 ### Math-Physics-Stats Club
 Of all the sesssions students loved [Non-newtonian fluids](https://www.youtube.com/watch?v=NPrCuIgX2_I) demonstration the most, but no one wanted to learn about the following [chart](https://en.wikipedia.org/wiki/Non-Newtonian_fluid#/media/File:Rheology_of_time_independent_fluids.svg), instead of just punching multi-colored corn-starch
 
-[List of resources](https://docs.google.com/document/d/1krllrQxnC8VQY3NAupyENBjjj59B5CCBG7Ci2qqgSMg/edit?usp=sharing) shared with students
+[List of resources](https://docs.google.com/document/d/1krllrQxnC8VQY3NAupyENBjjj59B5CCBG7Ci2qqgSMg/edit?usp=sharing) shared with students. A slightly different version of the same [here](https://kmjoshi.github.io/physics-js/iwanttolearnmore.html)
 
-[Talk](./Joshi_TechEdTalk_UG.pdf) on ML/AI and its many uses in the modern world, basic introduction, and how AI is not an existential threat
+[Talk](./Joshi_TechEdTalk_UG.pdf) on ML/AI and its many uses in the modern world, basic introduction, and how AI is not an existential threat (see [video](https://www.youtube.com/watch?v=_wwUJfJJyHA&t=1315s), which does not show the slides but instead only goes to prove that I am not an AI!)
 
 ## OMSCS @ Georgia Tech
 
