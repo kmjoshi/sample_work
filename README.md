@@ -57,6 +57,6 @@ minimax | markov chain modeling | game theory | rational agent
 - TCP vs. UDP
 ### [CSE 6242: Data and Visual Analytics](https://poloclub.github.io/cse6242-2018fall-online/)
 
-- [Google Trends Symptom Clusters](http://35.239.193.75/) (down): Visualising clusters of medical symptoms searched in Google over time and at state-level, alongside their pair-correlations as a network/graph 
+- [Google Trends Symptom Clusters](https://kmjoshi.github.io/disease_trends/) : Visualising clusters of medical symptoms searched in Google over time and at state-level, alongside their pair-correlations as a network/graph 
 - Exposure to: AWS | Hadoop | Spark | Scala etc.
 - Azure ML studio is a great GUI for ML pipelines
