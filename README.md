@@ -3,7 +3,7 @@ Here are listed my general thoughts on work I have done in my life.
 ## Ocean Modelling Research @ Georgia Tech | LANL
 The bulk of the following research was motivated by probing to what extent higher resolution models of the ocean capture dynamics missed by lower resolution models (resolution here refers to spatial resolution of models, size of an individual grid-cell. Global climate models use ~50km, regional models like [ECMWF](https://www.ecmwf.int/) use ~10km). We probed the submesoscale ~1km-5km in regional ocean simulations using [ROMS-AGRIF](http://www.croco-ocean.org/documentation/ROMS_AGRIF-User-Guide/).
 
-[Presentation](./ocean_modeling/Lagrangian_presentation.pdf)(for videos/gifs go [here](./ocean_modeling/README.md)) and [Report](./ocean_modeling/lagrangian_report.pdf) on the effect of model resolution, seasonality on lagrangian trajectories launched in the South Atlantic
+[Presentation](./ocean_modeling/Lagrangian_presentation.pdf)(for videos/gifs go [here](./ocean_modeling/LANL_code/README.md)) and [Report](./ocean_modeling/lagrangian_report.pdf) on the effect of model resolution, seasonality on lagrangian trajectories launched in the South Atlantic
 
 [Presentation](./ocean_modeling/GOM15_keshav.pdf) at Gulf of Mexico Oil Spill & Ecosystem Science Conference on the effects of spatial resolution on tracer evolution and dynamics
 
