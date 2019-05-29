@@ -117,7 +117,7 @@ Explored Problem Domains:
 	- define a recurrence relation: 1D/2D/ND tables
 - Divide and Conquer | Recursion
 	- break problems into subproblems that are the same type of problem
-	- obtain [recursion relation](https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)) in the form: T(n) <= a*T(n/b) +c*n
+	- obtain [recursion relation](https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)) in the form: T(n) <= a * T(n/b) + c * n
 		- a = b: O(n log n)
 		- a < b: O(n)
 		- a > b: O(n^log_b(a)) 
@@ -139,24 +139,22 @@ Explored Problem Domains:
 			- s: source, t: target
 		- goal: find max flow f(e) through network (s->t)
 			- maximize f(s) = f(into t)
-		- capacity constraint: for all e in E: 0<=f(e)<=c(e)
-		- conservation of flow: for all v in V - {s, t}: flow into v = flow out of v
+		- capacity constraint: for all e in E: 0 <= f(e) <= c(e)
+		- conservation of flow: for all v in V - {s, t}: (flow into v) = (flow out of v)
 	- Ford-Fulkerson Algorithm
 	- Edmonds-Karp Algorithm
 	- Max-flow = Min-cut
 		- Cut across graph that minimizes the total flow over each cut edge, is equivalent to the max-flow
 - Linear Programming: optimization of a system of linear inequalities
 	- Standard form:
-		- max cT*x | A*x<=b | x>=0
-		- c:(n*1), x:(n*1), b:(m,1), A:(m,n)
+		- max cT * x &nbsp; | &nbsp; A * x <= b &nbsp; | &nbsp; x >= 0
+		- c: (n,1), x: (n,1), b: (m,1), A: (m,n)
 		- n variables | m inequality constraints | n + m constraints
 		- has an equivalent dual LP, which is a minimization problem
 	- LP problems:
 		- max-flow | min-cut
 		- bipartite matching
 		- zero-sum games
-	- in P
-	- Integer LP in NP-complete
 - NP-completeness
 	- P: set of all problems solvable in polynomial time
 		- 2-SAT
@@ -222,7 +220,7 @@ Explored Problem Domains:
 	- the great work being done by other students and practitioners
 	- as well as very cool ideas like constructionism that are behind products like Scratch
 ### CS 6035: Intro to Information Security
-Explored concepts such as: 
+- Explored concepts such as: 
 	- objectives of security
 		- confidentiality
 		- integrity
